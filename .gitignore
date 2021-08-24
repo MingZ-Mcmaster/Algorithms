@@ -1,2 +1,4 @@
 #.gitigore
 readme.txt
+.pydevproject
+.project
